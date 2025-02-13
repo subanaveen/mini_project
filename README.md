@@ -1,5 +1,16 @@
-<<<<<<< HEAD
-"# My Next.js Project" 
-=======
 # mini_project
->>>>>>> 2f49d71c49a35f66dffd7dfe6e19574813451141
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
